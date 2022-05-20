@@ -1,0 +1,12 @@
+body
+{
+    background-color: darkturquoise;
+    border: lightslategrey solid 10px;
+}
+
+#camera
+{
+    border: 3px dashed;
+    height: 300px;
+    width: 350px;
+}
